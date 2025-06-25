@@ -3,5 +3,4 @@
 namespace KafkaSpy.Api.Controllers;
 
 [ApiController]
-[Route("/api/clusters")]
-public class ClustersController : ControllerBase;
+public class ConsumerGroupsController : ControllerBase;
